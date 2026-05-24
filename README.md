@@ -10,7 +10,7 @@
 🚀 Desenvolvedor focado em evolução constante
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mateus-renovato&label=Visualizações&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mateus-renovato&label=Visualizações&color=0e75b6&style=for-the-badge" /> 
 
 </div>
 
@@ -38,25 +38,16 @@ Meu objetivo é crescer na área da tecnologia, me tornar Desenvolvedor Full Sta
 
 ---
 
-# 📊 Estatísticas GitHub
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/mateus-renovato">
+</a>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-renovato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-renovato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mateus-renovato&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mateus-renovato&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
